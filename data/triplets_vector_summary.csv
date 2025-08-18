@@ -1,0 +1,11 @@
+rank,snp_id,gene,tissue,n_strains_after_align,status,output_file
+1,rs3685813,Lsm12,Liver,39,OK,data\triplet_vectors\triplet_01_rs3685813_Lsm12_liver.csv
+2,rs13476379,Gm13375,Hypothalamus,38,OK,data\triplet_vectors\triplet_02_rs13476379_Gm13375_hypothalamus.csv
+3,rs6176494,Snord53,Hypothalamus,38,OK,data\triplet_vectors\triplet_03_rs6176494_Snord53_hypothalamus.csv
+4,rs6259742,Ccl9,Liver,39,OK,data\triplet_vectors\triplet_04_rs6259742_Ccl9_liver.csv
+5,rs6164049,Moxd1,Liver,39,OK,data\triplet_vectors\triplet_05_rs6164049_Moxd1_liver.csv
+6,rs3143810,Slc1a2,Liver,39,OK,data\triplet_vectors\triplet_06_rs3143810_Slc1a2_liver.csv
+7,rs3723643,B2m,Hypothalamus,38,OK,data\triplet_vectors\triplet_07_rs3723643_B2m_hypothalamus.csv
+8,UT_12_23.29234,Adi1,Hypothalamus,38,OK,data\triplet_vectors\triplet_08_UT_12_23.29234_Adi1_hypothalamus.csv
+9,rs13478017,Aldh4a1,Liver,39,OK,data\triplet_vectors\triplet_09_rs13478017_Aldh4a1_liver.csv
+10,rs13459157,2010003K11Rik,Liver,39,OK,data\triplet_vectors\triplet_10_rs13459157_2010003K11Rik_liver.csv
